@@ -1,0 +1,27 @@
+*emergency_exit
+#Firstly, please note that the emergency exit is straight ahead.
+@Please use it in case I get too boring.
+
+*sitting_area
+#This is one of the common study areas, and you can see the printer and the big data lab as well. We also have a massage chair here for the students to relax on.
+@I usually come here for the massage chair rather than studying. 
+
+*conference_room
+#The conference room is for meetings and maybe some board games and fun on Fridays. 
+@Who says we are socially dead?
+
+*graduate_office
+#The graduate offices take care of the admissions and the administration of the graduate division.
+@
+
+*nvsl_lab
+#This is the Non Volatile Systems Lab, where they work on memory and storage devices. 
+@I am not too sure about what happens here!
+
+*ubi_lab
+#This here is the Ubiquitous Computing Lab, and behind us is the lobby as well as Chez bob. Chez bob has foosball and a pool table and tons of snacks!
+@If you look outside the window in the lobby behind us, you can see the cse bear!
+
+*embedded_lab
+#This is the embedded systems lab where I was created! The tour ends here, thank you!
+@My wheels are so tired now, please let me rest.
